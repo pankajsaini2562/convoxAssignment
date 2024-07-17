@@ -6,9 +6,9 @@ import Table from "./components/Table";
 export default function App() {
   return (
     <div className="bg-[#fafafa] h-screen w-screen overflow-hidden ">
-      {/* <Header />
-      <Sidebar /> */}
-      <Table />
+      <Header />
+      <Sidebar />
+      {/* <Table /> */}
     </div>
   );
 }
