@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 const contactSchema=new mongoose.Schema({
-
+// contact for defining the model for contacts
   name:{
     type:String,
     required:true
